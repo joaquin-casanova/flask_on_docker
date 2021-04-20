@@ -1,2 +1,4 @@
 env/
 __pycache__/
+.env.prod
+.env.prod.db
